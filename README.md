@@ -11,6 +11,8 @@
 
 ## ✅ 개요
 바코드 코드 경쟁 사이트 파싱용  jan_checker_db.php
+
 메일 추가 관리 및 메일 송수신 관련 AJAX 작업 easy_mail.php
+
 경쟁사 사이트 가격 체크용 파일 price_checker_db.php
 
